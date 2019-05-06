@@ -1,9 +1,14 @@
 # SecurityTelegramBot
-Language:- Arabic + English
-Delete spam bots and bad words in super-groups and a lot of services
-This bot bullding for kick out any Telegram bot ,added to the super-group.
-This bot bullding for Delete Bad words come form Telegram users inside the super-group.
-This bot bullding for give Welcome Message to the new member added to the supergroup.
-This bot bullding for give Apology and  list Administrators of the superGroup Message to the member left from the supergroup. The message sending to the private chat of the user lefted form superGroup.
+Languages:- Arabic + English
+## Services
 
-Owner: Wassim Dayili
+Delete spam bots and bad words in telegram super groups.
+
+1- This bot built for kick out any Telegram bot added to the super-group.
+2- This bot built for delete any bad words saved in databae come form telegram users inside the super-group.
+3- This bot built for give Welcome Message to the new member added to the supergroup.
+4- This bot built for give Apology and  list Administrators of the superGroup Message to the member left from the supergroup. The message sending to the private chat of the user left form superGroup.
+
+```bash
+## Owner: [Wassim Dayili]
+```
